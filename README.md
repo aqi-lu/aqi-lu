@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- 👋 Hi,guys! I'm @aqi-lu
+- - 🌱 I’m currently learning something about the front end.
+- 📫 How to reach me: 1760266032@qq.com.
 <!--
 **aqi-lu/aqi-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
