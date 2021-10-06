@@ -4,7 +4,7 @@
 
 - :telephone_receiver: 联系
   - QQ：1760266032
-  - Email: 1760266032@qq.com
+  - Email: aqi_lu@163.com
 - :black_nib: 技术
   - 喜欢前端三贱客以及周边技术；
   - 对后端也略有兴趣。
