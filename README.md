@@ -11,7 +11,7 @@
 
 :house: 个人情况：正在做自己喜欢的事情
 
-**"如果你没有战斗的本领，起码也要有赴死的意识"**
+**"晓看天色暮看云,行也思君,坐也思君"**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aqi&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
