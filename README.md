@@ -11,8 +11,6 @@
 
 :house: 个人情况：正在做自己喜欢的事情
 
-**"荣耀的背后刻着一道孤独"**
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aqi-lu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqi-lu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **aqi-lu/aqi-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
