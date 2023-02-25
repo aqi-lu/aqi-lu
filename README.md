@@ -11,7 +11,7 @@
 
 :house: 个人情况：正在做自己喜欢的事情
 
-**"这世上的热闹，出自孤单"**
+**"荣耀的背后刻着一道孤独"**
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aqi-lu&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqi-lu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
